@@ -1,7 +1,9 @@
 # Data Analytics Platform Portfolio
 
 <!-- Cloud -->
-![Cloud](https://img.shields.io/badge/Cloud-Data%20Platform-4A90E2)
+![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900)
+![Cloud](https://img.shields.io/badge/Cloud-Azure-0078D4)
+![Cloud](https://img.shields.io/badge/Cloud-GCP-4285F4)
 
 <!-- Databases -->
 ![Database](https://img.shields.io/badge/Database-PostgreSQL-336791)
