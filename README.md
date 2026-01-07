@@ -3,7 +3,9 @@
 ## Technologies & plateformes
 
 - **Cloud data platforms** :  
-  GCP BigQuery ![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900), Azure *(Azure Data Factory, Microsoft Fabric )* ![Cloud](https://img.shields.io/badge/Cloud-Azure-0078D4),  AWS ![Cloud](https://img.shields.io/badge/Cloud-GCP-4285F4)
+  GCP BigQuery ![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900),
+  Azure *(Azure Data Factory, Microsoft Fabric )* ![Cloud](https://img.shields.io/badge/Cloud-Azure-0078D4),
+  AWS ![Cloud](https://img.shields.io/badge/Cloud-GCP-4285F4)
 
 - **Databases** : PostgreSQL, Snowflake  
   ![Database](https://img.shields.io/badge/Database-PostgreSQL-336791)
