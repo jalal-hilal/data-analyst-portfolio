@@ -1,24 +1,30 @@
 # Data Analytics Platform Portfolio
 
-<!-- Cloud -->
-![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900)
-![Cloud](https://img.shields.io/badge/Cloud-Azure-0078D4)
-![Cloud](https://img.shields.io/badge/Cloud-GCP-4285F4)
+## Technologies & plateformes
 
-<!-- Databases -->
-![Database](https://img.shields.io/badge/Database-PostgreSQL-336791)
-![Database](https://img.shields.io/badge/Database-Snowflake-56B9EB)
+- **Cloud data platforms** :  
+  GCP *(BigQuery, Looker Studio)*,  
+  Azure *(Azure Data Factory, Microsoft Fabric – concepts & architecture)*,  
+  AWS *(services data – concepts)*  
+  ![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900)
+  ![Cloud](https://img.shields.io/badge/Cloud-Azure-0078D4)
+  ![Cloud](https://img.shields.io/badge/Cloud-GCP-4285F4)
 
-<!-- Data Transformation -->
-![Transformation](https://img.shields.io/badge/Data%20Transformation-dbt-F26C50)
+- **Databases** : PostgreSQL, Snowflake  
+  ![Database](https://img.shields.io/badge/Database-PostgreSQL-336791)
+  ![Database](https://img.shields.io/badge/Database-Snowflake-56B9EB)
 
-<!-- Analytics / SQL -->
-![SQL](https://img.shields.io/badge/SQL-Analytics-F39C12)
+- **Data Transformation** : dbt *(SQL, modélisation analytique, couche analytics)*  
+  ![Transformation](https://img.shields.io/badge/Data%20Transformation-dbt-F26C50)
 
-<!-- Data Visualization -->
-![DataViz](https://img.shields.io/badge/DataViz-Power%20BI-F2C811)
-![DataViz](https://img.shields.io/badge/DataViz-Looker%20Studio-34A853)
-![DataViz](https://img.shields.io/badge/DataViz-Qlik-00B140)
+- **Data Visualization** : Power BI, Looker Studio, QlikView / Qlik Sense  
+  ![DataViz](https://img.shields.io/badge/DataViz-Power%20BI-F2C811)
+  ![DataViz](https://img.shields.io/badge/DataViz-Looker%20Studio-34A853)
+  ![DataViz](https://img.shields.io/badge/DataViz-Qlik-00B140)
+
+- **SQL** : analyse, agrégations, modélisation analytique  
+  ![SQL](https://img.shields.io/badge/SQL-Analytics-F39C12)
+
 
 ---
 
@@ -31,15 +37,6 @@ Une attention particulière est portée à :
 - la séparation entre données brutes et données analytiques,
 - la centralisation de la logique métier,
 - la maintenabilité et l’évolutivité des solutions.
-
----
-
-## Technologies & plateformes
-- **Cloud data platforms** : GCP, Azure *(architecture & concepts)*  
-- **Databases** : PostgreSQL, Snowflake  
-- **Data Transformation** : dbt (SQL, modélisation analytique)  
-- **Data Visualization** : Power BI, Looker Studio, QlikView / Qlik Sense  
-- **SQL** : analyse, agrégations, modélisation analytique
 
 ---
 
