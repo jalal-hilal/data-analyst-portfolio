@@ -9,8 +9,8 @@
   Azure *(Azure Data Factory, Microsoft Fabric – concepts & architecture)*,  
   AWS *(services data – concepts)*  
 
-- **Databases** : ![Database](https://img.shields.io/badge/Database-PostgreSQL-336791)
-  PostgreSQL  
+- **Databases** :  
+  PostgreSQL ![Database](https://img.shields.io/badge/Database-PostgreSQL-336791)  
   Snowflake ![Database](https://img.shields.io/badge/Database-Snowflake-56B9EB)  
 
 
