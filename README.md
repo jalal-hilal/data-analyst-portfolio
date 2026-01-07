@@ -2,13 +2,12 @@
 
 ## Technologies & plateformes
 
-- **Cloud data platforms** :  
+- **Cloud data platforms** :    ![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900)
+  ![Cloud](https://img.shields.io/badge/Cloud-Azure-0078D4)
+  ![Cloud](https://img.shields.io/badge/Cloud-GCP-4285F4)
   GCP *(BigQuery, Looker Studio)*,  
   Azure *(Azure Data Factory, Microsoft Fabric – concepts & architecture)*,  
   AWS *(services data – concepts)*  
-  ![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900)
-  ![Cloud](https://img.shields.io/badge/Cloud-Azure-0078D4)
-  ![Cloud](https://img.shields.io/badge/Cloud-GCP-4285F4)
 
 - **Databases** : PostgreSQL, Snowflake  
   ![Database](https://img.shields.io/badge/Database-PostgreSQL-336791)
