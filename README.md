@@ -1,25 +1,28 @@
 # Data Analytics Platform Portfolio
 
-<!-- Google stack -->
-![GCP](https://img.shields.io/badge/GCP-Cloud-4285F4)
-![BigQuery](https://img.shields.io/badge/BigQuery-SQL-4285F4)
-![Looker](https://img.shields.io/badge/Looker%20Studio-BI-4285F4)
+<!-- Cloud -->
+![Cloud](https://img.shields.io/badge/Cloud-Data%20Platform-4A90E2)
 
-<!-- Microsoft stack -->
-![Azure](https://img.shields.io/badge/Azure-Data%20Platform-7B3FE4)
-![PowerBI](https://img.shields.io/badge/Power%20BI-Microsoft-7B3FE4)
+<!-- Databases -->
+![Database](https://img.shields.io/badge/Database-PostgreSQL-336791)
+![Database](https://img.shields.io/badge/Database-Snowflake-56B9EB)
 
-<!-- Other -->
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791)
-![dbt](https://img.shields.io/badge/dbt-Transformations-F26C50)
-![Snowflake](https://img.shields.io/badge/Snowflake-Cloud-56B9EB)
+<!-- Data Transformation -->
+![Transformation](https://img.shields.io/badge/Data%20Transformation-dbt-F26C50)
+
+<!-- Analytics / SQL -->
 ![SQL](https://img.shields.io/badge/SQL-Analytics-F39C12)
+
+<!-- Data Visualization -->
+![DataViz](https://img.shields.io/badge/DataViz-Power%20BI-F2C811)
+![DataViz](https://img.shields.io/badge/DataViz-Looker%20Studio-34A853)
+![DataViz](https://img.shields.io/badge/DataViz-Qlik-00B140)
 
 ---
 
 ## Overview
 Ce dépôt regroupe mes projets **Data Analyst** et **BI**, structurés par plateformes et technologies.  
-Il présente des cas d’usage proches de missions réelles, depuis l’ingestion de données brutes jusqu’à leur restitution dans des outils de visualisation.
+Il présente des cas d’usage proches de missions réelles, depuis l’ingestion de données brutes jusqu’à leur restitution dans des outils de data visualisation.
 
 Une attention particulière est portée à :
 - la structuration des données,
@@ -30,12 +33,10 @@ Une attention particulière est portée à :
 ---
 
 ## Technologies & plateformes
-- **Google Cloud Platform** : BigQuery, Looker Studio  
-- **Microsoft** : Power BI, Azure Data Factory *(concepts & architecture)*  
-- **PostgreSQL** : base de données analytique  
-- **dbt (data build tool)** : transformations SQL et modélisation analytique  
-- **Snowflake** *(à venir)*  
-- **Qlik** : QlikView / Qlik Sense  
+- **Cloud data platforms** : GCP, Azure *(architecture & concepts)*  
+- **Databases** : PostgreSQL, Snowflake  
+- **Data Transformation** : dbt (SQL, modélisation analytique)  
+- **Data Visualization** : Power BI, Looker Studio, QlikView / Qlik Sense  
 - **SQL** : analyse, agrégations, modélisation analytique
 
 ---
@@ -51,13 +52,14 @@ Les projets suivent une architecture inspirée des environnements professionnels
   ↓
   PostgreSQL — schéma analytics (données analytiques)
   ↓
-  Outils BI (Power BI, Looker Studio, etc.)
+  Outils de Data Visualization (Power BI, Looker Studio, Qlik)
 
 
+Principes clés :
 - Les données brutes sont stockées **sans modification** dans un schéma `raw`
 - Les transformations sont réalisées **exclusivement via dbt**
 - Les données analytiques sont exposées dans un schéma `analytics`
-- Les outils BI consomment uniquement la couche analytique
+- Les outils de visualisation consomment uniquement la couche analytique
 
 Cette approche garantit traçabilité, sécurité des données sources et évolutivité.
 
@@ -65,17 +67,17 @@ Cette approche garantit traçabilité, sécurité des données sources et évolu
 
 ## Projets
 
-### 🔹 PostgreSQL / dbt / Power BI  
+### 🔹 PostgreSQL / dbt / Data Visualization  
 **RH & Planning Analytics (CSV → SQL → BI)**
 
-Mise en place d’une chaîne analytique complète à partir de fichiers CSV RH, avec exposition finale dans Power BI.
+Mise en place d’une chaîne analytique complète à partir de fichiers CSV RH, avec exposition finale dans un outil de data visualisation.
 
 **Travaux réalisés :**
 - Ingestion de données CSV dans PostgreSQL (schéma `raw`)
 - Mise en place d’une couche analytique avec dbt (schéma `analytics`)
-- Utilisation de dbt en mode *pass-through* pour remplacer les sources CSV dans Power BI sans refonte des visuels
+- Utilisation de dbt en mode *pass-through* pour remplacer les sources CSV dans les dashboards sans refonte des visuels
 - Séparation claire entre données brutes et données analytiques
-- Centralisation de la logique data hors de Power BI
+- Centralisation de la logique data hors des outils de visualisation
 
 **Objectif principal :**
 - Sécuriser les données sources
@@ -87,7 +89,7 @@ Mise en place d’une chaîne analytique complète à partir de fichiers CSV RH,
 
 ---
 
-### 🔹 GCP — BigQuery / Looker Studio  
+### 🔹 Cloud / SQL / Data Visualization  
 **E-commerce Customer Analytics**
 
 Analyse d’un dataset e-commerce afin de mesurer la performance business et le comportement client.
@@ -96,14 +98,14 @@ Analyse d’un dataset e-commerce afin de mesurer la performance business et le 
 - KPI mensuels (chiffre d’affaires, commandes, clients actifs, panier moyen)
 - Analyse de cohortes clients
 - Étude de la rétention dans le temps
-- Visualisations interactives sous Looker Studio
+- Visualisations interactives
 
 📁 Dossier :  
 `/gcp/bigquery/ecommerce-customer-analytics`
 
 ---
 
-### 🔹 Microsoft — Power BI *(à venir)*
+### 🔹 Data Visualization *(à venir)*
 - Dashboards KPI
 - Modélisation BI
 - DAX
@@ -111,7 +113,7 @@ Analyse d’un dataset e-commerce afin de mesurer la performance business et le 
 
 ---
 
-### 🔹 Snowflake *(à venir)*
+### 🔹 Databases / Cloud *(à venir)*
 - SQL analytique
 - Préparation de datasets pour la BI
 
@@ -128,4 +130,3 @@ Ce portfolio est conçu comme un support de démonstration de compétences en **
 📫 Contact :  
 - LinkedIn : *(à ajouter)*  
 - Email : *(à ajouter)*
-
