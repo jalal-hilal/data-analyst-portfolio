@@ -1,23 +1,28 @@
 # Data Analytics Platform Portfolio
 
-![GCP](https://img.shields.io/badge/GCP-Cloud-blue)
-![BigQuery](https://img.shields.io/badge/BigQuery-SQL-blue)
-![Looker](https://img.shields.io/badge/Looker%20Studio-BI-green)
-![PowerBI](https://img.shields.io/badge/Power%20BI-Microsoft-yellow)
-![Azure](https://img.shields.io/badge/Azure-Data%20Platform-blueviolet)
-![Snowflake](https://img.shields.io/badge/Snowflake-Cloud-lightblue)
-![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
+<!-- Google stack -->
+![GCP](https://img.shields.io/badge/GCP-Cloud-4285F4)
+![BigQuery](https://img.shields.io/badge/BigQuery-SQL-4285F4)
+![Looker](https://img.shields.io/badge/Looker%20Studio-BI-4285F4)
+
+<!-- Microsoft stack -->
+![PowerBI](https://img.shields.io/badge/Power%20BI-Microsoft-7B3FE4)
+![Azure](https://img.shields.io/badge/Azure-Data%20Platform-7B3FE4)
+
+<!-- Other -->
+![Snowflake](https://img.shields.io/badge/Snowflake-Cloud-56B9EB)
+![SQL](https://img.shields.io/badge/SQL-Analytics-F39C12)
 
 ---
 
 ## Overview
 Ce dépôt regroupe mes projets **Data Analyst** et **BI**, structurés par plateformes et technologies.  
-Il a pour objectif de présenter des cas d’usage proches de missions réelles, allant de la préparation des données à leur restitution sous forme de dashboards.
+Il présente des cas d’usage proches de missions réelles, de la préparation des données à la restitution via des dashboards.
 
 ---
 
 ## Technologies & plateformes
-- **GCP** : BigQuery, Looker Studio  
+- **Google Cloud Platform** : BigQuery, Looker Studio  
 - **Microsoft** : Power BI, Azure Data Factory  
 - **Snowflake**  
 - **Qlik** : QlikView / Qlik Sense  
@@ -67,4 +72,3 @@ Ce portfolio est conçu comme un support de démonstration de compétences Data 
 📫 Contact :  
 - LinkedIn : *(à ajouter)*  
 - Email : *(à ajouter)*
-
