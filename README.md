@@ -28,15 +28,15 @@ Portfolio de projets **Data Analyst / BI**, organisé par **technologies** et **
 ### 4️⃣ SQL
 |  | Technologie | Chemin |
 |-----------|----------|--------|
-| ![SQL](https://img.shields.io/badge/SQL-Analytics-F39C12) | SQL | `TECH/4_SQL` | 👉 [`TECH/4_SQL`](TECH/4_SQL) |
+| ![SQL](https://img.shields.io/badge/SQL-Analytics-F39C12) | SQL | 👉 [`TECH/4_SQL`](TECH/4_SQL) |
 
 
 ### 5️⃣ Data Visualization
 |  | Technologie | Chemin |
 |-----------|----------|--------|
-| ![Power BI](https://img.shields.io/badge/DataViz-Power%20BI-F2C811) | Power BI | `TECH/5_DATA_VISUALIZATION/POWER_BI` | 👉 [`TECH/5_DATA_VISUALIZATION/POWER_BI`](TECH/5_DATA_VISUALIZATION/POWER_BI) |
-| ![Looker](https://img.shields.io/badge/DataViz-Looker%20Studio-34A853) | Looker | `TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO` | 👉 [`TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO`](TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO) |
-| ![Qlik](https://img.shields.io/badge/DataViz-Qlik-00B140) | Qlik | `TECH/5_DATA_VISUALIZATION/QLIK` | 👉 [`TECH/5_DATA_VISUALIZATION/QLIK`](TECH/5_DATA_VISUALIZATION/QLIK) |
+| ![Power BI](https://img.shields.io/badge/DataViz-Power%20BI-F2C811) | Power BI | 👉 [`TECH/5_DATA_VISUALIZATION/POWER_BI`](TECH/5_DATA_VISUALIZATION/POWER_BI) |
+| ![Looker](https://img.shields.io/badge/DataViz-Looker%20Studio-34A853) | Looker | 👉 [`TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO`](TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO) |
+| ![Qlik](https://img.shields.io/badge/DataViz-Qlik-00B140) | Qlik | 👉 [`TECH/5_DATA_VISUALIZATION/QLIK`](TECH/5_DATA_VISUALIZATION/QLIK) |
 
 ---
 
