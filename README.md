@@ -1,29 +1,42 @@
 # Data Analytics Platform Portfolio
 
-## Technologies & plateformes
-
-- **Cloud data platforms** :    ![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900)
+## Technologies & plateform
+  ![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900)
   ![Cloud](https://img.shields.io/badge/Cloud-Azure-0078D4)
-  ![Cloud](https://img.shields.io/badge/Cloud-GCP-4285F4)  
+  ![Cloud](https://img.shields.io/badge/Cloud-GCP-4285F4)
+  ![Database](https://img.shields.io/badge/Database-PostgreSQL-336791)
+  ![Database](https://img.shields.io/badge/Database-Snowflake-56B9EB)
+  ![Transformation](https://img.shields.io/badge/Data%20Transformation-dbt-F26C50)
+  ![DataViz](https://img.shields.io/badge/DataViz-Power%20BI-F2C811)
+  ![DataViz](https://img.shields.io/badge/DataViz-Looker%20Studio-34A853)
+  ![DataViz](https://img.shields.io/badge/DataViz-Qlik-00B140)
+  ![SQL](https://img.shields.io/badge/SQL-Analytics-F39C12)
+  
+- **Cloud data platforms** :
   GCP *(BigQuery, Looker Studio)*,  
   Azure *(Azure Data Factory, Microsoft Fabric – concepts & architecture)*,  
   AWS *(services data – concepts)*  
 
 - **Databases** :  
-  PostgreSQL ![Database](https://img.shields.io/badge/Database-PostgreSQL-336791)  
-  Snowflake ![Database](https://img.shields.io/badge/Database-Snowflake-56B9EB)  
+  PostgreSQL 
+  Snowflake 
 
+- **Data Transformation** :
+  dbt *(SQL, modélisation analytique, couche analytics)*  
+  
 
-- **Data Transformation** : dbt *(SQL, modélisation analytique, couche analytics)*  
-  ![Transformation](https://img.shields.io/badge/Data%20Transformation-dbt-F26C50)
+- **Data Visualization** :
+  Power BI
+  Looker Studio
+  QlikView / Qlik Sense  
+  
 
-- **Data Visualization** : Power BI, Looker Studio, QlikView / Qlik Sense  
-  ![DataViz](https://img.shields.io/badge/DataViz-Power%20BI-F2C811)
-  ![DataViz](https://img.shields.io/badge/DataViz-Looker%20Studio-34A853)
-  ![DataViz](https://img.shields.io/badge/DataViz-Qlik-00B140)
-
-- **SQL** : analyse, agrégations, modélisation analytique  
-  ![SQL](https://img.shields.io/badge/SQL-Analytics-F39C12)
+- **SQL** :
+  analyse
+  agrégations
+  modélisation
+  analytique  
+  
 
 
 ---
