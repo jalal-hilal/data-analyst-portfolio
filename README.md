@@ -25,6 +25,8 @@ Portfolio de projets **Data Analyst / BI**, organisé par **technologies** et **
 ---
 
 ## Projets concrets
+
+
 |  |  |  |
 |---|---|---|
 | **RH & Planning Analytics** | PostgreSQL -> dbt -> Power BI  | 👉 [`PROJECTS/RH_PLANNING_DBT_POWERBI`](PROJECTS/RH_PLANNING_DBT_POWERBI) |
