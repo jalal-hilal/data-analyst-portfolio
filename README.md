@@ -42,7 +42,7 @@ Portfolio de projets **Data Analyst / BI**, organisé par **technologies** et **
 |  |  |  |
 |-----------|----------|--------|
 | ![Power BI](https://img.shields.io/badge/DataViz-Power%20BI-F2C811) | Power BI | 👉 [`TECH/5_DATA_VISUALIZATION/POWER_BI`](TECH/5_DATA_VISUALIZATION/POWER_BI) |
-| ![Looker](https://img.shields.io/badge/DataViz-Looker%20Studio-34A853) | Looker | 👉 [`TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO`](TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO) |
+| ![Looker](https://img.shields.io/badge/DataViz-Looker%20Studio-34A853) | Looker Studio | 👉 [`TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO`](TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO) |
 | ![Qlik](https://img.shields.io/badge/DataViz-Qlik-00B140) | Qlik | 👉 [`TECH/5_DATA_VISUALIZATION/QLIK`](TECH/5_DATA_VISUALIZATION/QLIK) |
 
 ---
