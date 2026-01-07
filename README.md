@@ -51,7 +51,7 @@ Une attention particulière est portée à :
 
 ## Architecture data (approche entreprise)
 
-Les projets suivent une architecture inspirée des environnements professionnels :
+Les projets suivent une architecture inspirée des environnements professionnels :  
   Sources métier (CSV / exports applicatifs)  
    ↓  
   PostgreSQL — schéma raw (données brutes)  
