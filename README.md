@@ -4,7 +4,6 @@
 
 Portfolio de projets **Data Analyst / BI**, organisé par **technologies** et **étapes du pipeline data**, afin de permettre une lecture rapide par compétence.
 
----
 
 ## Technologies
 
@@ -22,7 +21,6 @@ Portfolio de projets **Data Analyst / BI**, organisé par **technologies** et **
 | ![Looker](https://img.shields.io/badge/DataViz-Looker%20Studio-34A853) | **Looker Studio** |  [`TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO`](TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO) |
 | ![Qlik](https://img.shields.io/badge/DataViz-Qlik-00B140) | **Qlik** |  [`TECH/5_DATA_VISUALIZATION/QLIK`](TECH/5_DATA_VISUALIZATION/QLIK) |
 
----
 
 ### Projets concrets
 
@@ -32,13 +30,10 @@ Portfolio de projets **Data Analyst / BI**, organisé par **technologies** et **
 | **RH & Planning Analytics** | **PostgreSQL > dbt > Power BI**  |  [`PROJECTS/RH_PLANNING_DBT_POWERBI`](PROJECTS/RH_PLANNING_DBT_POWERBI) |
 | **E-commerce Customer Analytics** | **BigQuery > Looker Studio**  |  [`PROJECTS/ECOMMERCE_BIGQUERY_LOOKER`](PROJECTS/ECOMMERCE_BIGQUERY_LOOKER) |
 
----
-
 ### Objectif du dépôt
 
 Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Analyst** et/ou **Business Analyst**, avec une approche orientée **architecture data**, **qualité**, et **lisibilité métier**.
 
----
 
 
 📫 Contact  
