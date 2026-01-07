@@ -14,7 +14,7 @@
   
 - **Cloud data platforms** :  
   GCP *(BigQuery, Looker Studio)*,  
-  Azure *(Azure Data Factory, Microsoft Fabric – concepts & architecture)*,  
+  Azure *(Azure Data Factory, Microsoft Fabric)*,  
   AWS *(services data – concepts)*  
 
 - **Databases** :  
@@ -22,7 +22,7 @@
   Snowflake  
 
 - **Data Transformation** :  
-  dbt *(SQL, modélisation analytique, couche analytics)*  
+  dbt *(SQL, modélisation analytique)*  
   
 
 - **Data Visualization** :  
