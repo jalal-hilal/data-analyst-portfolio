@@ -18,7 +18,7 @@
   AWS *(services data – concepts)*  
 
 - **Databases** :  
-  PostgreSQL  
+  PostgreSQL,  
   Snowflake  
 
 - **Data Transformation** :  
@@ -26,9 +26,9 @@
   
 
 - **Data Visualization** :  
-  Power BI  
-  Looker Studio  
-  QlikView / Qlik Sense  
+  Power BI,  
+  Looker Studio,  
+  QlikView / Qlik Sense 
   
 
 - **SQL** :  
