@@ -4,13 +4,9 @@
 
 Portfolio de projets **Data Analyst / BI**, organisé par **technologies** et **étapes du pipeline data**, afin de permettre une lecture rapide par compétence.
 
-
-
 ---
 
-
 ### 1️⃣ Cloud data platforms
-
 
 
 |  |  |  |
@@ -19,7 +15,7 @@ Portfolio de projets **Data Analyst / BI**, organisé par **technologies** et **
 | ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4) | **Azure** | 👉 [`TECH/1_CLOUD_DATA_PLATFORMS/AZURE`](TECH/1_CLOUD_DATA_PLATFORMS/AZURE) |
 | ![GCP](https://img.shields.io/badge/Cloud-GCP-4285F4) | **GCP** | 👉 [`TECH/1_CLOUD_DATA_PLATFORMS/GCP`](TECH/1_CLOUD_DATA_PLATFORMS/GCP) |
 
-</div>
+
 
 
 
@@ -71,3 +67,5 @@ Ce dépôt a pour objectif de démontrer mes compétences en **Data Analytics** 
 📫 Contact :  
 - LinkedIn : https://www.linkedin.com/in/jalal-hilal/
 - Email : jalal.hilal@hotmail.fr
+
+</div>
