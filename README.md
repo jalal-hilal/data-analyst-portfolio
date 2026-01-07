@@ -7,38 +7,29 @@ Portfolio de projets **Data Analyst / BI**, organisé par **technologies** et **
 ## Accès rapide par technologie
 
 ### 1️⃣ Cloud data platforms  
-Dossier racine : `TECH/1_CLOUD_DATA_PLATFORMS`
 
 - **AWS** — 👉 [`TECH/1_CLOUD_DATA_PLATFORMS/AWS`](TECH/1_CLOUD_DATA_PLATFORMS/AWS)
 - **Azure** — 👉 [`TECH/1_CLOUD_DATA_PLATFORMS/AZURE`](TECH/1_CLOUD_DATA_PLATFORMS/AZURE)
 - **GCP** — 👉 [`TECH/1_CLOUD_DATA_PLATFORMS/GCP`](TECH/1_CLOUD_DATA_PLATFORMS/GCP)
 
----
 
 ### 2️⃣ Databases  
-Dossier racine : `TECH/2_DATABASES`
 
-- **PostgreSQL** — `TECH/2_DATABASES/POSTGRESQL` 👉 [`TECH/2_DATABASES/POSTGRESQL`](TECH/2_DATABASES/POSTGRESQL)
-- **Snowflake** — `TECH/2_DATABASES/SNOWFLAKE` 👉 [`TECH/2_DATABASES/SNOWFLAKE`](TECH/2_DATABASES/SNOWFLAKE)
+- **PostgreSQL** — 👉 [`TECH/2_DATABASES/POSTGRESQL`](TECH/2_DATABASES/POSTGRESQL)
+- **Snowflake** — 👉 [`TECH/2_DATABASES/SNOWFLAKE`](TECH/2_DATABASES/SNOWFLAKE)
 
----
 
 ### 3️⃣ Data Transformation  
-Dossier racine : `TECH/3_DATA_TRANSFORMATION`
 
 - **dbt** — 👉 [`TECH/3_DATA_TRANSFORMATION/DBT`](TECH/3_DATA_TRANSFORMATION/DBT)
 
----
 
 ### 4️⃣ SQL  
-Dossier racine : `TECH/4_SQL`
 
 - **SQL Analytics & Patterns** — 👉 [`TECH/4_SQL`](TECH/4_SQL)
-
----
+  
 
 ### 5️⃣ Data Visualization  
-Dossier racine : `TECH/5_DATA_VISUALIZATION`
 
 - **Power BI** — 👉 [`TECH/5_DATA_VISUALIZATION/POWER_BI`](TECH/5_DATA_VISUALIZATION/POWER_BI)
 - **Looker Studio** — 👉 [`TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO`](TECH/5_DATA_VISUALIZATION/LOOKER_STUDIO)
