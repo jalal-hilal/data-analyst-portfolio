@@ -10,9 +10,8 @@
   AWS *(services data – concepts)*  
 
 - **Databases** : ![Database](https://img.shields.io/badge/Database-PostgreSQL-336791)
-  ![Database](https://img.shields.io/badge/Database-Snowflake-56B9EB)  
   PostgreSQL  
-  Snowflake 
+  Snowflake ![Database](https://img.shields.io/badge/Database-Snowflake-56B9EB)  
 
 
 - **Data Transformation** : dbt *(SQL, modélisation analytique, couche analytics)*  
