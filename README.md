@@ -34,7 +34,7 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 
 ---
 
-### 🛠️ Langages
+### 💻 Langages
 
 |  |  |  |
 |---|---|---|
