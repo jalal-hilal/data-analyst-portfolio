@@ -30,7 +30,7 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 |  |  |  |
 |---|---|---|
 | **RH & Planning Analytics** | **PostgreSQL > dbt > Power BI**  |  [`PROJECTS/RH_PLANNING_DBT_POWERBI`](PROJECTS/RH_PLANNING_DBT_POWERBI) |
-| **E-commerce Customer Analytics** | **BigQuery > Looker Studio**  |  [`PROJECTS/ECOMMERCE_BIGQUERY_LOOKER`](PROJECTS/ECOMMERCE_BIGQUERY_LOOKER) |
+| **E-commerce Customer Analytics** | **GCP BigQuery > Looker Studio**  |  [`PROJECTS/ECOMMERCE_BIGQUERY_LOOKER`](PROJECTS/ECOMMERCE_BIGQUERY_LOOKER) |
 
 ---
 
