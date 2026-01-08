@@ -37,6 +37,9 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 | ![C](https://img.shields.io/badge/C-Low%20Level-A8B9CC?logo=c&logoColor=black) | **C** | ✅ |
 | ![Java](https://img.shields.io/badge/Java-Backend-ED8B00?logo=java&logoColor=white) | **Java** | ✅ |
 | ![VBA](https://img.shields.io/badge/VBA-Office-217346?logo=microsoft-excel&logoColor=white) | **VBA** | ✅ |
+| ![HTML](https://img.shields.io/badge/HTML5-Markup-E34F26?logo=html5&logoColor=white) | **HTML** | ✅ |
+| ![CSS](https://img.shields.io/badge/CSS3-Styles-1572B6?logo=css3&logoColor=white) | **CSS** | ✅ |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?logo=javascript&logoColor=black) | **JavaScript** | ✅ |
 
 ---
 
