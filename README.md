@@ -2,7 +2,9 @@
 
 # Data Analytics Platform Portfolio
 
-Portfolio de projets **Data Analyst / BI**, organisé par **technologies** et **étapes du pipeline data**, afin de permettre une lecture rapide par compétence.
+### 🎯 Objectif du dépôt
+
+Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Analyst** et/ou **Business Analyst**, avec une approche orientée **architecture data**, **qualité**, et **lisibilité métier**.
 
 ---
 
@@ -30,12 +32,6 @@ Portfolio de projets **Data Analyst / BI**, organisé par **technologies** et **
 |---|---|---|
 | **RH & Planning Analytics** | **PostgreSQL > dbt > Power BI**  |  [`PROJECTS/RH_PLANNING_DBT_POWERBI`](PROJECTS/RH_PLANNING_DBT_POWERBI) |
 | **E-commerce Customer Analytics** | **BigQuery > Looker Studio**  |  [`PROJECTS/ECOMMERCE_BIGQUERY_LOOKER`](PROJECTS/ECOMMERCE_BIGQUERY_LOOKER) |
-
----
-
-### 🎯 Objectif du dépôt
-
-Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Analyst** et/ou **Business Analyst**, avec une approche orientée **architecture data**, **qualité**, et **lisibilité métier**.
 
 ---
 
