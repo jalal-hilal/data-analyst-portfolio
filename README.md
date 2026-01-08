@@ -25,15 +25,6 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 
 ---
 
-### 📂 Projets concrets
-
-|  |  |  |
-|---|---|---|
-| **RH & Planning Analytics** | **PostgreSQL > dbt > Power BI**  |  [`PROJECTS/RH_PLANNING_DBT_POWERBI`](PROJECTS/RH_PLANNING_DBT_POWERBI) |
-| **E-commerce Customer Analytics** | **GCP (BigQuery) > Looker Studio**  |  [`PROJECTS/ECOMMERCE_BIGQUERY_LOOKER`](PROJECTS/ECOMMERCE_BIGQUERY_LOOKER) |
-
----
-
 ### 💻 Langages
 
 |  |  |  |
@@ -46,6 +37,15 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 | ![C](https://img.shields.io/badge/C-Low%20Level-A8B9CC?logo=c&logoColor=black) | **C** | ✅ |
 | ![Java](https://img.shields.io/badge/Java-Backend-ED8B00?logo=java&logoColor=white) | **Java** | ✅ |
 | ![VBA](https://img.shields.io/badge/VBA-Office-217346?logo=microsoft-excel&logoColor=white) | **VBA** | ✅ |
+
+---
+
+### 📂 Projets concrets
+
+|  |  |  |
+|---|---|---|
+| **RH & Planning Analytics** | **PostgreSQL > dbt > Power BI**  |  [`PROJECTS/RH_PLANNING_DBT_POWERBI`](PROJECTS/RH_PLANNING_DBT_POWERBI) |
+| **E-commerce Customer Analytics** | **GCP (BigQuery) > Looker Studio**  |  [`PROJECTS/ECOMMERCE_BIGQUERY_LOOKER`](PROJECTS/ECOMMERCE_BIGQUERY_LOOKER) |
 
 ---
 
