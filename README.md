@@ -34,7 +34,6 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 | ![DAX](https://img.shields.io/badge/DAX-Power%20BI-F2C811?logo=powerbi&logoColor=black) | **DAX** | ✅ |
 | ![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?logo=python&logoColor=white) | **Python** | ✅ |
 | ![CSharp](https://img.shields.io/badge/C%23-.NET-512BD4?logo=dotnet&logoColor=white) | **C#** | ✅ |
-| ![C](https://img.shields.io/badge/C-Low%20Level-A8B9CC?logo=c&logoColor=black) | **C** | ✅ |
 | ![Java](https://img.shields.io/badge/Java-Backend-ED8B00?logo=java&logoColor=white) | **Java** | ✅ |
 | ![VBA](https://img.shields.io/badge/VBA-Office-217346?logo=microsoft-excel&logoColor=white) | **VBA** | ✅ |
 | ![HTML](https://img.shields.io/badge/HTML5-Markup-E34F26?logo=html5&logoColor=white) | **HTML** | ✅ |
