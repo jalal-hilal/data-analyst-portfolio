@@ -1,6 +1,6 @@
 <div align="center">
 
-# Data Analytics Platform Portfolio
+# Data Analyst | Portfolio
 
 ### 🎯 Objectif du dépôt
 
