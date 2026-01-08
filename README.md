@@ -10,25 +10,6 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 
 ### 🛠️ Technologies
 
-  <tr>
-    <td valign="top" style="padding-right: 24px;">
-      <b>Tableau 1</b>
-      <table>
-        <tr><th>État</th><th>Icône</th></tr>
-        <tr><td>Valide</td><td>🟢✔</td></tr>
-        <tr><td>En cours</td><td>🔵🔄</td></tr>
-      </table>
-    </td>
-    <td valign="top">
-      <b>Tableau 2</b>
-      <table>
-        <tr><th>État</th><th>Icône</th></tr>
-        <tr><td>Non valide</td><td>🔴✖</td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
 |  |  |  |
 |---|---|--|
 | ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900) | **AWS** | ✅ |
