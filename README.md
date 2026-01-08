@@ -21,7 +21,7 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 | ![Snowflake](https://img.shields.io/badge/Database-Snowflake-56B9EB) | **Snowflake** | ❌ |
 | ![dbt](https://img.shields.io/badge/Data%20Transformation-dbt-F26C50) | **dbt** | ✅ |
 | ![Power BI](https://img.shields.io/badge/DataViz-Power%20BI-F2C811) | **Power BI** | ✅ |
-| ![Looker](https://img.shields.io/badge/DataViz-Looker%20Studio-34A853) | **Looker Studio** | 🔄 |
+| ![Looker](https://img.shields.io/badge/DataViz-Looker%20Studio-34A853) | **Looker Studio** | ✅ |
 | ![Tableau](https://img.shields.io/badge/DataViz-Tableau-E97627?logo=tableau&logoColor=white) | **Tableau** | 🔄 |
 | ![Qlik](https://img.shields.io/badge/DataViz-Qlik-00B140) | **Qlik** | ❌ |
 | ![ETL](https://img.shields.io/badge/ETL-SSIS-0078D4?logo=microsoft&logoColor=white) | **SSIS** | ✅ |
