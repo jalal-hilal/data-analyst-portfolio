@@ -13,7 +13,7 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 |  |  |  |
 |---|---|--|
 | ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900) | **AWS** | ✅ |
-| ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4) | **Azure** | ❌ |
+| ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4) | **Azure** | 🔄 |
 | ![GCP](https://img.shields.io/badge/Cloud-GCP-4285F4) | **GCP** | ✅ |
 | ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791) | **PostgreSQL** | ✅ |
 | ![Snowflake](https://img.shields.io/badge/Database-Snowflake-56B9EB) | **Snowflake** | ❌ |
