@@ -16,6 +16,7 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 | ![GCP](https://img.shields.io/badge/Cloud-GCP-5C2D91) | **Google Cloud (BigQuery)** | ✅ |
 | ![Microsoft Fabric](https://img.shields.io/badge/Cloud-Microsoft%20Azure%20Data%20Factory-4285F4?logo=microsoft&logoColor=white) | **Microsoft Azure Data Factory** | 🔄 |
 | ![Microsoft Fabric](https://img.shields.io/badge/Cloud-Microsoft%20Azure%20Data%20Lake-4285F4?logo=microsoft&logoColor=white) | **Microsoft Azure Data Lake** | 🔄 |
+| ![Databricks](https://img.shields.io/badge/Data%20Platform-Databricks-EF3E2C?logo=databricks&logoColor=white) | **Microsoft Databricks** | ❌ |
 | ![Microsoft Fabric](https://img.shields.io/badge/Cloud-Microsoft%20Fabric-4285F4?logo=microsoft&logoColor=white) | **Microsoft Fabric** | ❌ |
 | ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791) | **PostgreSQL** | ✅ |
 | ![Snowflake](https://img.shields.io/badge/Database-Snowflake-56B9EB) | **Snowflake** | ❌ |
