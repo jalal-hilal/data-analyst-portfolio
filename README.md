@@ -13,10 +13,10 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 |  |  |  |
 |---|---|--|
 | ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900) | **AWS S3** | ✅ |
-| ![GCP](https://img.shields.io/badge/Cloud-GCP-4285F4) | **GCP** | ✅ |
-| ![Microsoft Fabric](https://img.shields.io/badge/Cloud-Microsoft%20Azure%20Data%20Factory-5C2D91?logo=microsoft&logoColor=white) | **Microsoft Azure Data Factory** | 🔄 |
-| ![Microsoft Fabric](https://img.shields.io/badge/Cloud-Microsoft%20Azure%20Data%20Lake-5C2D91?logo=microsoft&logoColor=white) | **Microsoft Azure Data Lake** | 🔄 |
-| ![Microsoft Fabric](https://img.shields.io/badge/Cloud-Microsoft%20Fabric-5C2D91?logo=microsoft&logoColor=white) | **Microsoft Fabric** | ❌ |
+| ![GCP](https://img.shields.io/badge/Cloud-GCP-5C2D91) | **GCP** | ✅ |
+| ![Microsoft Fabric](https://img.shields.io/badge/Cloud-Microsoft%20Azure%20Data%20Factory-4285F4?logo=microsoft&logoColor=white) | **Microsoft Azure Data Factory** | 🔄 |
+| ![Microsoft Fabric](https://img.shields.io/badge/Cloud-Microsoft%20Azure%20Data%20Lake-4285F4?logo=microsoft&logoColor=white) | **Microsoft Azure Data Lake** | 🔄 |
+| ![Microsoft Fabric](https://img.shields.io/badge/Cloud-Microsoft%20Fabric-4285F4?logo=microsoft&logoColor=white) | **Microsoft Fabric** | ❌ |
 | ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791) | **PostgreSQL** | ✅ |
 | ![Snowflake](https://img.shields.io/badge/Database-Snowflake-56B9EB) | **Snowflake** | ❌ |
 | ![dbt](https://img.shields.io/badge/Data%20Transformation-dbt-F26C50) | **dbt** | ✅ |
