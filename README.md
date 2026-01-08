@@ -19,7 +19,6 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 | ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791) | **PostgreSQL** | ✅ |
 | ![Snowflake](https://img.shields.io/badge/Database-Snowflake-56B9EB) | **Snowflake** | ❌ |
 | ![dbt](https://img.shields.io/badge/Data%20Transformation-dbt-F26C50) | **dbt** | ✅ |
-| ![SQL](https://img.shields.io/badge/SQL-Analytics-F39C12) | **SQL** | ✅ |
 | ![Power BI](https://img.shields.io/badge/DataViz-Power%20BI-F2C811) | **Power BI** | ✅ |
 | ![Looker](https://img.shields.io/badge/DataViz-Looker%20Studio-34A853) | **Looker Studio** | 🔄 |
 | ![Tableau](https://img.shields.io/badge/DataViz-Tableau-E97627?logo=tableau&logoColor=white) | **Tableau** | 🔄 |
