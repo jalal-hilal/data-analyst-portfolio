@@ -22,7 +22,7 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 | ![SQL](https://img.shields.io/badge/SQL-Analytics-F39C12) | **SQL** | ✅ |
 | ![Power BI](https://img.shields.io/badge/DataViz-Power%20BI-F2C811) | **Power BI** | ✅ |
 | ![Looker](https://img.shields.io/badge/DataViz-Looker%20Studio-34A853) | **Looker Studio** | 🔄 |
-| ![Qlik](https://img.shields.io/badge/DataViz-Qlik-00B140) | **Qlik** | 🔄 |
+| ![Qlik](https://img.shields.io/badge/DataViz-Qlik-00B140) | **Qlik** | ❌ |
 
 ---
 
