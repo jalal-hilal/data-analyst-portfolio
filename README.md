@@ -8,30 +8,7 @@ Ce dépôt a pour objectif de démontrer mes compétences en tant que **Data Ana
 
 ---
 
-### 🛠️ Technologies / Langages
-
-<table>
-  <tr>
-    <td>
-
-### Tableau 1
-| État | Icône |
-|------|------|
-| Valide | 🟢✔ |
-| En cours | 🔵🔄 |
-    </td>
-    <td>
-
-### Tableau 2
-| État | Icône |
-|------|------|
-| Non valide | 🔴✖ |
-| — | — |
-    </td>
-  </tr>
-</table>
-
-
+### 🛠️ Technologies
 |  |  |  |
 |---|---|--|
 | ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900) | **AWS** | ✅ |
